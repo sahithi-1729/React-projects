@@ -1,5 +1,7 @@
 # React + Vite
 
+"*This project helps you understand the useState, useCallback, useEffect, useRef hooks and gives a better and innovative UI experience for generating a random password*"
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
